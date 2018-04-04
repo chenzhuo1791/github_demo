@@ -1,2 +1,2 @@
 # github_demo
-testPro for init project
+  github_demo project to be familiar with git commands 
