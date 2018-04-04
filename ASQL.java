@@ -1,12 +1,10 @@
 package com.cyou.FApirl;
-
 public class ASQL {
 
 	/**
 	 * 7D0414_real_	  7D0414_base_
 	 */
 	public static void main(String[] args) {
-		
 		String suffix = "8F04" ; //
 		String line = "";
 		String begin = suffix;
